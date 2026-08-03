@@ -1,0 +1,41 @@
+accession,growth_habit,leaf_pubescence,flower_colour,seed_colour,seed_shape,pod_curvature,maturity,disease_score,plant_height_cm
+ACC-001,erect,sparse,white,brown,oval,slightly curved,early,resistant,82.2
+ACC-002,spreading,dense,white,brown,kidney,slightly curved,medium,resistant,73.4
+ACC-003,erect,dense,white,brown,oval,straight,medium,moderate,71.2
+ACC-004,spreading,dense,purple,black,round,straight,late,moderate,96.5
+ACC-005,spreading,sparse,white,brown,oval,slightly curved,early,moderate,75.4
+ACC-006,erect,absent,pink,mottled,kidney,straight,early,moderate,60.7
+ACC-007,semi-erect,sparse,pink,black,kidney,straight,early,resistant,96.4
+ACC-008,semi-erect,sparse,pink,black,oval,straight,medium,resistant,86.8
+ACC-009,erect,dense,white,mottled,oval,straight,medium,susceptible,83.5
+ACC-010,semi-erect,sparse,white,brown,round,straight,early,moderate,64.8
+ACC-011,spreading,sparse,white,yellow,round,straight,medium,moderate,83.9
+ACC-012,erect,sparse,purple,black,oval,straight,medium,susceptible,79.8
+ACC-013,semi-erect,dense,purple,yellow,oval,slightly curved,late,resistant,72.3
+ACC-014,erect,dense,pink,yellow,round,slightly curved,early,resistant,96.0
+ACC-015,spreading,absent,white,brown,kidney,slightly curved,medium,resistant,90.8
+ACC-016,spreading,absent,pink,mottled,oval,slightly curved,medium,moderate,77.6
+ACC-017,erect,dense,purple,black,round,straight,early,susceptible,68.2
+ACC-018,semi-erect,absent,white,yellow,round,straight,medium,moderate,75.9
+ACC-019,semi-erect,dense,white,brown,kidney,straight,late,resistant,74.7
+ACC-020,erect,sparse,pink,black,oval,straight,medium,moderate,81.7
+ACC-021,semi-erect,sparse,pink,mottled,oval,straight,early,resistant,67.4
+ACC-022,spreading,sparse,pink,black,round,slightly curved,late,moderate,63.9
+ACC-023,erect,sparse,purple,brown,oval,straight,medium,resistant,59.5
+ACC-024,semi-erect,absent,white,yellow,round,straight,late,moderate,92.4
+ACC-025,semi-erect,sparse,pink,brown,round,straight,medium,moderate,57.0
+ACC-026,spreading,dense,white,black,oval,straight,early,moderate,64.1
+ACC-027,spreading,dense,purple,yellow,round,curved,late,resistant,81.5
+ACC-028,semi-erect,sparse,white,black,round,straight,early,resistant,71.9
+ACC-029,spreading,dense,pink,yellow,oval,slightly curved,medium,susceptible,70.4
+ACC-030,erect,sparse,white,mottled,kidney,slightly curved,late,susceptible,68.9
+ACC-031,erect,absent,white,brown,kidney,straight,early,susceptible,68.5
+ACC-032,semi-erect,sparse,pink,brown,oval,straight,late,resistant,80.3
+ACC-033,spreading,dense,white,yellow,kidney,curved,early,moderate,85.3
+ACC-034,spreading,sparse,pink,brown,round,straight,medium,susceptible,59.5
+ACC-035,erect,dense,white,black,kidney,slightly curved,early,moderate,80.3
+ACC-036,erect,dense,white,mottled,round,straight,late,resistant,57.7
+ACC-037,erect,absent,white,mottled,oval,straight,medium,moderate,60.7
+ACC-038,erect,sparse,white,brown,oval,straight,medium,moderate,69.7
+ACC-039,erect,sparse,white,black,round,straight,early,moderate,79.0
+ACC-040,spreading,sparse,purple,brown,kidney,straight,late,resistant,84.0

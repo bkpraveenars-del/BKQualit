@@ -1,0 +1,38 @@
+# Hand-maintained NAMESPACE for BKQualit
+
+export(bq_segregate)
+export(bq_heterogeneity)
+export(bq_linkage)
+export(bq_diversity)
+export(bq_mca)
+
+export(bq_data)
+export(bq_save)
+export(bq_palette)
+export(theme_bq)
+export(scale_colour_bq)
+export(scale_color_bq)
+export(scale_fill_bq)
+export(bq_plot)
+
+S3method(print, bq_segregate)
+S3method(print, bq_heterogeneity)
+S3method(print, bq_linkage)
+S3method(print, bq_diversity)
+S3method(print, bq_mca)
+
+S3method(bq_plot, bq_segregate)
+S3method(bq_plot, bq_heterogeneity)
+S3method(bq_plot, bq_linkage)
+S3method(bq_plot, bq_diversity)
+S3method(bq_plot, bq_mca)
+S3method(bq_plot, default)
+
+## Note: format.pval(), svd(), diag(), outer() and strrep() live in base, not
+## stats, so they are available without an explicit import. Importing svd from
+## stats is a hard install error.
+importFrom(stats, chisq.test, pchisq, qchisq, complete.cases, optimize,
+           hclust, cutree, as.dist, reorder, setNames, rmultinom)
+importFrom(utils, read.csv, head)
+importFrom(grDevices, colorRampPalette)
+import(ggplot2)

@@ -1,0 +1,7 @@
+pair,design,phase,AB,Ab,aB,ab
+A-B,F2,coupling,542,57,67,134
+A-C,F2,coupling,458,103,100,89
+B-C,F2,repulsion,439,233,214,14
+D-E,backcross,coupling,150,32,33,185
+D-F,backcross,repulsion,33,161,154,52
+F-G,F2,coupling,393,138,119,50

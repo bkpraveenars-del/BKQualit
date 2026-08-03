@@ -1,0 +1,16 @@
+cross,generation,trait,phenotype,count
+P1 x P2,F2,flower_colour,purple,360
+P1 x P2,F2,flower_colour,white,118
+P1 x P2,F2,seed_shape,round,328
+P1 x P2,F2,seed_shape,wrinkled,103
+P1 x P2,F2,pod_colour,green,466
+P1 x P2,F2,pod_colour,yellow,153
+P1 x P2,F2,seed_coat,coloured,228
+P1 x P2,F2,seed_coat,white,177
+P1 x P2,F2,plant_height,tall,296
+P1 x P2,F2,plant_height,dwarf,88
+P1 x P2,F2,grain_type,bold,259
+P1 x P2,F2,grain_type,medium,174
+P1 x P2,F2,grain_type,fine,29
+P1 x P2,F2,awn_type,awned,489
+P1 x P2,F2,awn_type,awnless,103
