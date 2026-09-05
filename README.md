@@ -4,6 +4,7 @@
 
 [![License: GPL-3](https://img.shields.io/badge/License-GPL%203-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![R](https://img.shields.io/badge/R-%3E%3D%204.0.0-276DC3.svg)](https://cran.r-project.org)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22324861.svg)](https://doi.org/10.5281/zenodo.22324861)
 
 Qualitative traits are usually analysed with a hand-typed chi-square and left
 there. BKQualit does the rest of the job: it names the gene action, says
@@ -12,6 +13,11 @@ there. BKQualit does the rest of the job: it names the gene action, says
 Written for teaching and research in genetics and plant breeding by
 **Dr. Praveen Kumar B. K.**, Department of Genetics and Plant Breeding,
 Agriculture University, Jodhpur.
+
+## Citation
+
+Kumar, P. (2026). *BKQualit: Analysis of Qualitative Traits, Segregation and
+Genetic Linkage*. Zenodo. https://doi.org/10.5281/zenodo.22324861
 
 ---
 
